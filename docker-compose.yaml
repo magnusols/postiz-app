@@ -14,7 +14,7 @@ services:
       BACKEND_INTERNAL_URL: 'http://localhost:3000'
       TEMPORAL_ADDRESS: 'temporal:7233'
       IS_GENERAL: 'true'
-      DISABLE_REGISTRATION: 'false'
+      DISABLE_REGISTRATION: 'true'
       IS_HTTPS: 'true'
       NEXT_PUBLIC_IS_HTTPS: 'true'
 
