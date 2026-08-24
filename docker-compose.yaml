@@ -8,7 +8,7 @@ services:
       MAIN_URL: 'https://postiz.markant.no'
       FRONTEND_URL: 'https://postiz.markant.no'
       NEXT_PUBLIC_BACKEND_URL: 'https://postiz.markant.no/api'
-      JWT_SECRET: 'random string that is unique to every install - just type random characters here!'
+      JWT_SECRET: 'akjdIKAdfjAjd7837UHd73Jdjjdfisdsfåååøøsøsøøsø""034953s((=='
       DATABASE_URL: 'postgresql://postiz-user:postiz-password@postiz-postgres:5432/postiz-db-local'
       REDIS_URL: 'redis://postiz-redis:6379'
       BACKEND_INTERNAL_URL: 'http://localhost:3000'
